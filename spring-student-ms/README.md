@@ -1,5 +1,7 @@
 Student Management System
 
+This project works locally.
+
 HTML, Thymeleaf
 Java, Spring
 
